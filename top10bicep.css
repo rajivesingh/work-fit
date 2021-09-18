@@ -1,0 +1,30 @@
+body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+.bodyimg{
+    width: 70%;
+    padding: 0.7rem;
+}
+.headh1{
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 2rem;
+    color: #D8B384;
+}
+.bodyul{
+    line-height: 2;
+    text-align: justify;
+    list-style-type: none;
+    color: #D8B384;
+}
+.bodyh2{
+    padding:8px ;
+    color: #D8B384;
+}
+.one{
+    background-color:#5E454B ;
+}
+.two{
+    background-color: #5E454B;
+}
